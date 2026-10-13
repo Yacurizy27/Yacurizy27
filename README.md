@@ -1,88 +1,32 @@
-{
-  "version": "1.0.0",
-  "exportedAt": "2026-10-13T15:15:14.951Z",
-  "profile": {
-    "title": "Amaury Vargas Soler ",
-    "subtitle": "A budding Html developer",
-    "currentWork": "🔭 Actualmente estoy trabajando en Proyectos de análisis de datos y automatización utilizando Python, SQL, Power BI y R.\n\n",
-    "currentLearn": "Blockchain (Algorand), análisis estadístico avanzado en R y desarrollo de soluciones de inteligencia de negocios.",
-    "collaborateOn": "Proyectos de análisis de datos, visualización de información, automatización de procesos y tecnología blockchain.\n",
-    "helpWith": "Arquitecturas de datos, desarrollo blockchain, machine learning y mejores prácticas de GitHub.",
-    "ama": "Power BI, SQL, Python, R, análisis de datos, indicadores de gestión y planificación estratégica.",
-    "contact": "www.linkedin.com/in/amaury-vargas-soler",
-    "funFact": "Me apasiona transformar datos en información útil para la toma de decisiones y me interesa explorar cómo blockchain puede modernizar los servicios públicos.",
-    "visitorsBadge": true,
-    "badgeStyle": "flat",
-    "badgeColor": "0e75b6",
-    "badgeLabel": "Profile views",
-    "githubProfileTrophy": false,
-    "githubStats": false,
-    "githubStatsOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "topLanguages": false,
-    "topLanguagesOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "streakStats": false,
-    "streakStatsOptions": {
-      "theme": ""
-    },
-    "devDynamicBlogs": false,
-    "mediumDynamicBlogs": false,
-    "rssDynamicBlogs": false
-  },
-  "links": {
-    "currentWork": "",
-    "collaborateOn": "",
-    "helpWith": "",
-    "portfolio": "",
-    "blog": "",
-    "resume": ""
-  },
-  "social": {
-    "github": "Yacurizy27",
-    "dev": "",
-    "linkedin": "www.linkedin.com/in/amaury-b-0347252a",
-    "codepen": "",
-    "stackoverflow": "",
-    "kaggle": "https://www.kaggle.com/amauryvargas",
-    "codesandbox": "",
-    "fb": "",
-    "instagram": "",
-    "twitter": "",
-    "dribbble": "",
-    "behance": "",
-    "medium": "",
-    "youtube": "",
-    "codechef": "",
-    "hackerrank": "",
-    "codeforces": "",
-    "leetcode": "",
-    "topcoder": "",
-    "hackerearth": "",
-    "geeks_for_geeks": "",
-    "discord": "",
-    "rssurl": "",
-    "twitterBadge": false
-  },
-  "support": {
-    "buyMeACoffee": ""
-  },
-  "skills": [
-    "css3",
-    "html5"
-  ]
-}
+# Hi 👋, I'm Amaury Vargas Soler 
+
+### A budding Html developer
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yacurizy27&label=Profile views&color=0e75b6&style=flat" alt="Yacurizy27" /> </p>
+
+- 🔭 I'm currently working on **🔭 Actualmente estoy trabajando en Proyectos de análisis de datos y automatización utilizando Python, SQL, Power BI y R.
+
+**
+
+- 🌱 I'm currently learning **Blockchain (Algorand), análisis estadístico avanzado en R y desarrollo de soluciones de inteligencia de negocios.**
+
+- 👯 I'm looking to collaborate on **Proyectos de análisis de datos, visualización de información, automatización de procesos y tecnología blockchain.
+**
+
+- 🤝 I'm looking for help with **Arquitecturas de datos, desarrollo blockchain, machine learning y mejores prácticas de GitHub.**
+
+- 💬 Ask me about **Power BI, SQL, Python, R, análisis de datos, indicadores de gestión y planificación estratégica.**
+
+- 📫 How to reach me **www.linkedin.com/in/amaury-vargas-soler**
+
+- ⚡ Fun fact **Me apasiona transformar datos en información útil para la toma de decisiones y me interesa explorar cómo blockchain puede modernizar los servicios públicos.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Yacurizy27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Yacurizy27" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/amaury-b-0347252a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amaury-b-0347252a" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/amauryvargas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/amauryvargas" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a></p>
