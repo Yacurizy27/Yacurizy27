@@ -1,5 +1,4 @@
-[readme_md.md](https://github.com/user-attachments/files/33393948/readme_md.md)
-
+(https://github.com/user-attachments/files/33393948/readme_md.md)
 # 👋 Hola, soy Amaury Vargas Soler
 
 ## 📊 Data Analyst | 📈 Business Intelligence | 🐍 Python & R | 🚀 Blockchain Enthusiast
@@ -7,7 +6,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Yacurizy27&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
-
 ## 🚀 Sobre mí
 
 🔭 Actualmente trabajando en:
@@ -48,33 +46,27 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/amaury-vargas-soler)
 
 ⚡ Dato curioso:
-
 > Me apasiona transformar datos en información útil para la toma de decisiones y explorar cómo Blockchain puede modernizar los servicios públicos.
 
 ---
 
 ## 💻 Tecnologías y Herramientas
-
 ![Skills](https://skillicons.dev/icons?i=python,r,mysql,postgresql,git,github,vscode,html,css)
 
 ---
 
 ## 📈 Estadísticas GitHub
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yacurizy27&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yacurizy27&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🔥 Racha de Contribuciones
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yacurizy27&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🏆 Trofeos GitHub
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Yacurizy27&theme=tokyonight&row=1&column=6)
 
 ---
@@ -82,15 +74,10 @@
 ## 🎯 Objetivos 2026
 
 ✅ Dominar Python para análisis y automatización
-
 ✅ Fortalecer habilidades en R y Estadística
-
 ✅ Crear dashboards profesionales en Power BI
-
 ✅ Aprender desarrollo Blockchain con Algorand
-
 ✅ Participar en proyectos Open Source
-
 ✅ Construir soluciones de análisis de datos de extremo a extremo
 
 ---
