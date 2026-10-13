@@ -1,8 +1,7 @@
-(https://github.com/user-attachments/files/33393948/readme_md.md)
+
 # 👋 Hola, soy Amaury Vargas Soler
 
 ## 📊 Data Analyst | 📈 Business Intelligence | 🐍 Python & R | 🚀 Blockchain Enthusiast
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Yacurizy27&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
