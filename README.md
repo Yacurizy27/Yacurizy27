@@ -16,7 +16,6 @@ Soy analista de datos con enfoque en Business Intelligence, análisis estratégi
 - ⚙️ Indicadores clave de desempeño (KPIs)
 - ⛓️ Blockchain y gobierno digital
 
----
 
 ## 🚀 Sobre mí
 
@@ -29,7 +28,6 @@ Además, estoy ampliando mis conocimientos en:
 - Data Engineering
 - Arquitecturas de datos y analítica moderna
 
----
 
 ## 🎯 Áreas de especialización
 
@@ -42,7 +40,6 @@ Además, estoy ampliando mis conocimientos en:
 - Visualización efectiva de información
 - Planeación estratégica y toma de decisiones basada en datos
 
----
 
 ## 💻 Stack tecnológico
 
@@ -58,7 +55,6 @@ Además, estoy ampliando mis conocimientos en:
 
 ![Skills](https://skillicons.dev/icons?i=python,r,mysql,postgresql,git,github,vscode,html,css)
 
----
 
 ## 📌 Enfoque profesional
 
@@ -71,7 +67,6 @@ Me interesa contribuir a proyectos donde pueda aplicar análisis de datos, metod
 - Blockchain y gobierno digital
 - Soluciones de analítica aplicada
 
----
 
 ## 🤝 Colaboración y oportunidades
 
@@ -89,14 +84,12 @@ También me interesan conversaciones y oportunidades relacionadas con:
 - Machine Learning avanzado
 - Mejores prácticas de GitHub y trabajo colaborativo
 
----
 
 ## 📫 Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/amaury-vargas-soler)
 - 🌐 GitHub: [@Yacurizy27](https://github.com/Yacurizy27)
 
----
 
 ## 📈 Estadísticas de GitHub
 
@@ -105,7 +98,6 @@ También me interesan conversaciones y oportunidades relacionadas con:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yacurizy27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
----
 
 ## 🔥 Racha de contribuciones
 
@@ -113,7 +105,6 @@ También me interesan conversaciones y oportunidades relacionadas con:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yacurizy27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
 
 ## 🏆 Logros
 
@@ -121,7 +112,6 @@ También me interesan conversaciones y oportunidades relacionadas con:
   <img src="https://github-profile-trophy.vercel.app/?username=Yacurizy27&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
----
 
 ## 🎯 Objetivos 2026
 
@@ -132,7 +122,6 @@ También me interesan conversaciones y oportunidades relacionadas con:
 - ✅ Participar en proyectos open source y colaborativos
 - ✅ Construir soluciones de analítica de extremo a extremo
 
----
 
 ## ⭐ Mensaje
 
