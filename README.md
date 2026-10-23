@@ -103,13 +103,6 @@ También me interesan conversaciones y oportunidades relacionadas con:
 </div>
 
 
-## 🏆 Logros
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yacurizy27&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
-
 ## 🎯 Objetivos 2026
 
 - ✅ Dominar Python para análisis, automatización y scripting
