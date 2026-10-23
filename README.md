@@ -2,7 +2,6 @@
 
 ## Data Analyst | Business Intelligence | Python | SQL | Power BI | R
 
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Yacurizy27&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
