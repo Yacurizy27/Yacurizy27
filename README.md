@@ -2,8 +2,6 @@
 
 ## Data Analyst | Business Intelligence | Python | SQL | Power BI | R
 
-  <img src="https://komarev.com/ghpvc/?username=Yacurizy27&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</div>
 
 Soy analista de datos con enfoque en Business Intelligence, análisis estratégico y automatización de procesos. Me apasiona transformar datos en información útil para la toma de decisiones, optimizar procesos operativos y crear soluciones basadas en datos que generen valor para las organizaciones.
 
