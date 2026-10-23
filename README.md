@@ -5,6 +5,15 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Yacurizy27&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 
+<img width="2764" height="2268" alt="image" src="https://github.com/user-attachments/assets/8e19d327-9d73-4c62-8100-64ccdf9443fb" />
+
+
+
+
+
+
+
+
 ## 🚀 Sobre mí
 
 🔭 Actualmente trabajando en:
